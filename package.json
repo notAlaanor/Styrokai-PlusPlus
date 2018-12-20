@@ -1,0 +1,21 @@
+{
+    "name": "styrokai--",
+    "displayName": "Styrokai++",
+    "description": "Styrokai, with some improvements.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Styrokai++",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Styrokai++-color-theme.json"
+            }
+        ]
+    }
+}
