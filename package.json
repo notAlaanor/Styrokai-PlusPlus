@@ -7,6 +7,18 @@
         "type": "git",
         "url": "https://github.com/notAlaanor/Styrokai-PlusPlus.git"
     },
+    "keywords": [
+        "dark",
+        "black",
+        "minimal",
+        "monokai",
+        "contrast"
+    ],
+    "icon": ".media/styrokai-plusplus-icon.png",
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.30.0"
