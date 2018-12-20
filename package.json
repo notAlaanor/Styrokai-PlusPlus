@@ -2,6 +2,11 @@
     "name": "styrokai--",
     "displayName": "Styrokai++",
     "description": "Styrokai, with some improvements.",
+    "publisher": "kepler0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/notAlaanor/Styrokai-PlusPlus.git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.30.0"
