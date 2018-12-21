@@ -13,21 +13,21 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#CCCC97"
+				"foreground": "#e0e096"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#9D4CFF"
+				"foreground": "#a567f1"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#9D4CFF"
+				"foreground": "#a567f1"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#9D4CFF"
+				"foreground": "#a567f1"
 			}
 		},
 		{
@@ -182,7 +182,7 @@
 		"editor.foreground": "#FFFFFF",
 		"editor.lineHighlightBackground": "#0f0f0f",
 		"editor.lineHighlightBorder": "#1f1f1f",
-		"editor.selectionBackground": "#2b21b4",
+		"editor.selectionBackground": "#5d3483bb",
 		"editorCursor.foreground": "#FFFFFF",
 		"editorGroupHeader.noTabsBackground": "#000000",
 		"editorGroupHeader.tabsBackground": "#000000",
@@ -220,6 +220,8 @@
 		"sideBar.background": "#000000",
 		"sideBar.foreground": "#fafafa",
 		"sideBarTitle.foreground": "#fafafa",
+		"sideBarSectionHeader.background": "#080808",
+		"sideBarSectionHeader.border": "#000000",
 		"statusBar.background": "#000000",
 		"statusBar.noFolderBackground": "#000000",
 		"statusBar.debuggingBackground": "#462020",
@@ -233,12 +235,19 @@
 		"titleBar.activeBackground": "#000000",
 		"titleBar.activeForeground": "#fafafa",
 		"titleBar.border": "#000000",
-		"titleBar.inactiveBackground": "#222222",
+		"titleBar.inactiveBackground": "#0f0f0f",
 		"titleBar.inactiveForeground": "#aaaaaa",
 		"editorSuggestWidget.background": "#000000",
 		"editorSuggestWidget.selectedBackground": "#1b1b1b",
 		"editorSuggestWidget.border": "#1b1b1b",
 		"editorSuggestWidget.foreground": "#cccccc",
-		"editorSuggestWidget.highlightForeground": "#ffffff"
+		"editorSuggestWidget.highlightForeground": "#ffffff",
+		"editorWidget.background": "#000000",
+		"editorWidget.border": "#1b1b1b",
+		"editorWidget.resizeBorder": "#1b1b1b",
+		"editorHoverWidget.background": "#0a0a0a",
+		"editorHoverWidget.border": "#1b1b1b",
+		"debugToolBar.background": "#000000",
+		"debugToolBar.border": "#1b1b1b"
 	}
 }
