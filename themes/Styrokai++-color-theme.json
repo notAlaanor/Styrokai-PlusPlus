@@ -13,7 +13,7 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#f2d853"
+				"foreground": "#eece3f"
 			}
 		},
 		{
@@ -248,6 +248,9 @@
 		"editorHoverWidget.background": "#0a0a0a",
 		"editorHoverWidget.border": "#1b1b1b",
 		"debugToolBar.background": "#000000",
-		"debugToolBar.border": "#1b1b1b"
+		"debugToolBar.border": "#1b1b1b",
+		"editorGutter.addedBackground": "#89e215",
+		"editorGutter.modifiedBackground": "#3BE5FF",
+		"editorGutter.deletedBackground": "#f92649"
 	}
 }
