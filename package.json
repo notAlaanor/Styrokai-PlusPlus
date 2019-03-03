@@ -32,6 +32,21 @@
                 "label": "Styrokai++",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Styrokai++-color-theme.json"
+            },
+            {
+                "label": "Styrokai++ (No Italics)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Styrokai++-no-italics-color-theme.json"
+            },
+            {
+                "label": "Styrokai++ (No Bold)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Styrokai++-no-bold-color-theme.json"
+            },
+            {
+                "label": "Styrokai++ (No Italics or Bold)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Styrokai++-no-bold-italics-color-theme.json"
             }
         ]
     }
